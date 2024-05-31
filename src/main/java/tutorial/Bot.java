@@ -26,8 +26,6 @@ public class Bot extends TelegramLongPollingBot {
         var msg = update.getMessage();
         var user = msg.getFrom();
 
-        (msg.getText().equals("/total");
-
         if (msg.getText().equals("/start")) {
             String msgBoasVindas = "Bem-vindo ao bot calculadora, nele você envia valores e eu vou somando.";
             sendText(user.getId(), msgBoasVindas);
