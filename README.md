@@ -73,7 +73,7 @@ Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo [LIC
 
 ## Contato
 
-Para qualquer dúvida ou sugestão, entre em contato com [seu_nome](mailto:seu_email@exemplo.com).
+Para qualquer dúvida ou sugestão, entre em contato com [Mateus Nicola](mailto:mateus.nicola@hotmail.com).
 
 ---
 
