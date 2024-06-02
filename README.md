@@ -59,18 +59,6 @@ Este é um bot de Telegram desenvolvido em Java, projetado para ajudar os usuár
 - **isNumeric**: Verifica se uma string é um número válido.
 - **sendText**: Envia uma mensagem de texto para o usuário.
 
-## Contribuição
-
-1. Faça um fork do repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Faça commit das suas alterações (`git commit -am 'Adiciona nova feature'`).
-4. Faça push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 
 Para qualquer dúvida ou sugestão, entre em contato com [Mateus Nicola](mailto:mateus.nicola@hotmail.com).
